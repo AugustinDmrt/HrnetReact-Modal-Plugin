@@ -54,6 +54,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 Vous pouvez personnaliser la modal en passant des props supplémentaires et en utilisant du CSS pour le style.
 
+
 ### Licence
 
 Ce projet est sous licence ISC.
@@ -61,5 +62,7 @@ Ce projet est sous licence ISC.
 ### Contribution
 
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour toute modification ou suggestion.
+
+> **Note :** Ce projet nécessite Node.js version 14 ou supérieure et est de préférence développé avec [Visual Studio Code (VSCode)](https://code.visualstudio.com/).
 
 
