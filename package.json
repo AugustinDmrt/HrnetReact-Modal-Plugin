@@ -8,8 +8,12 @@
     "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "modal",
+    "react",
+    "plugin"
+  ],
+  "author": "Augustin Damourette",
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.0 || ^18.0.0",
